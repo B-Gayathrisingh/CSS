@@ -1,0 +1,10 @@
+a{
+    background-color: blue;
+}
+a[target]{
+    background-color: brown;
+}
+*{
+    background-color: aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
